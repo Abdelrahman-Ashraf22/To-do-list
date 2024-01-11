@@ -1,2 +1,2 @@
 # To-do-list
-<img src="/project.jpg"/>
+<img src="/src/project.jpg"/>
